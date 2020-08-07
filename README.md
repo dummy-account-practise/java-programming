@@ -1,4 +1,4 @@
-# JAVA Programming
+# Java Programming
 
 This repository should only be used to submit materials realated to your project like codes, reports, project ideas etc under the Uplift Project.
 
